@@ -1,12 +1,12 @@
 {
-  "name": "My ESPHome Project",
-  "version": "2024.8.30",  // Incremented version number
+  "name": "Oslo Water Level Sensor",
+  "version": "2024.8.30",
   "builds": [
     {
       "chipFamily": "ESP8266",
       "ota": {
-        "md5": "abc",
-        "path": "http://xyz/firmware.ota.bin"
+        "md5": "xxx",
+        "path": "https://cobustaljaard.github.io/esphome-updates/oslo-water-level-sensor/firmware.ota.bin"
       }
     }
   ]
