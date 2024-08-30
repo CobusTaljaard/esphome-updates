@@ -1,0 +1,13 @@
+{
+  "name": "My ESPHome Project",
+  "version": "2024.8.30",  // Incremented version number
+  "builds": [
+    {
+      "chipFamily": "ESP8266",
+      "ota": {
+        "md5": "abc",
+        "path": "http://xyz/firmware.ota.bin"
+      }
+    }
+  ]
+}
