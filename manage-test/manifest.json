@@ -1,13 +1,13 @@
 {
-  "name": "My ESPHome Managed HTTPS Updates Test",
-  "version": "004",
-  "builds": [
-    {
-      "chipFamily": "nodemcu-32s",
-      "ota": {
-        "md5": "1f2173001a4e19ffc8dd0302df3a7bb4",
-        "path": "https://cobustaljaard.github.io/esphome-updates/manage-test/firmware.ota.bin"
-      }
-    }
-  ]
+    "name": "manage-test",
+    "version": "2024-09-06 15:56:33",
+    "builds": [
+        {
+            "chipFamily": "nodemcu-32s",
+            "ota": {
+                "md5": "F99A93EC196A16BEBACE6DFE03C5DBB9",
+                "path": "https://cobustaljaard.github.io/esphome-updates/manage-test/firmware.ota.bin"
+            }
+        }
+    ]
 }
