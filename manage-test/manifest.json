@@ -1,13 +1,13 @@
 {
     "name": "manage-test",
-    "version": "4.1",
+    "version": "4.2",
     "builds": [
         {
             "chipFamily": "nodemcu-32s",
             "ota": {
                 "md5": "B757EBC57AE56D35D8FD6D2914506CB1",
                 "path": "https://cobustaljaard.github.io/esphome-updates/manage-test/firmware.ota.bin",
-                "summary": "4.1"
+                "summary": "4.2 Some very long text to pad the file size to much bigger than before. Some very long text to pad the file size to much bigger than before."
             }
         }
     ]
