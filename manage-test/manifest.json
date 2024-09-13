@@ -1,6 +1,6 @@
 {
     "name": "manage-test",
-    "version": "2",
+    "version": "3",
     "builds": [
         {
             "chipFamily": "nodemcu-32s",
