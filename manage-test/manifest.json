@@ -1,11 +1,11 @@
 {
     "name": "manage-test",
-    "version": "2024-09-14 14:54:42",
+    "version": "2024-09-14 15:00:44",
     "builds": [
         {
             "chipFamily": "nodemcu-32s",
             "ota": {
-                "md5": "0ca8a79683a7b3c92077a4217ef5367c",
+                "md5": "0f672dbc4f33f2e49cbccc24930dbd42",
                 "path": "https://cobustaljaard.github.io/esphome-updates/manage-test/firmware.ota.bin"
             }
         }
