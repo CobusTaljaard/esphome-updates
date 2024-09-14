@@ -6,6 +6,7 @@
             "chipFamily": "nodemcu-32s",
             "ota": {
                 "md5": "B757EBC57AE56D35D8FD6D2914506CB1",
+                "md5_url": "https://cobustaljaard.github.io/esphome-updates/manage-test/manage-test.md5",
                 "path": "https://cobustaljaard.github.io/esphome-updates/manage-test/firmware.ota.bin"
             }
         }
