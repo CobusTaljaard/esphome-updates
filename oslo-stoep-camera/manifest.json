@@ -1,6 +1,6 @@
 {
     "name": "oslo-stoep-camera",
-    "version": "2024-09-14 11:56:21",
+    "version": "2024-09-14 12:05:25",
     "builds": [
         {
             "chipFamily": "esp-wrover-kit",
