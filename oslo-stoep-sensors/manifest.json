@@ -1,6 +1,6 @@
 {
     "name": "oslo-stoep-sensors",
-    "version": "2024-09-15 18:52:14",
+    "version": "1.0",
     "builds": [
         {
             "chipFamily": "nodemcu",
