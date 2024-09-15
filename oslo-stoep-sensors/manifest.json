@@ -1,11 +1,11 @@
 {
     "name": "oslo-stoep-sensors",
-    "version": "3",
+    "version": "2024-09-15 18:24:01",
     "builds": [
         {
             "chipFamily": "nodemcu",
             "ota": {
-                "md5": "d085f5053858fdf9295c5919edef63b1",
+                "md5": "466842d5e8a12bbb42bad6187098f67d",
                 "path": "https://cobustaljaard.github.io/esphome-updates/oslo-stoep-sensors/firmware.ota.bin"
             }
         }
