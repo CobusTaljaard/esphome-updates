@@ -1,6 +1,6 @@
 {
     "name": "oslo-stoep-sensors",
-    "version": "2024.9.20",
+    "version": "2024.9.21",
     "builds": [
         {
             "chipFamily": "nodemcu",
