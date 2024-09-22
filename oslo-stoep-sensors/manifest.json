@@ -5,7 +5,7 @@
         {
             "chipFamily": "nodemcu",
             "ota": {
-                "md5": "10198ca33b055fb9c269233e5849d5bf",
+                "md5": "3c25b3c7d3ebc642dde582179add24a5",
                 "path": "https://cobustaljaard.github.io/esphome-updates/oslo-stoep-sensors/firmware.ota.bin"
             }
         }
