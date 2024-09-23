@@ -1,11 +1,11 @@
 {
     "name": "oslo-stoep-camera",
-    "version": "2024.9.20",
+    "version": "2024.9.23",
     "builds": [
         {
-            "chipFamily": "esp-wrover-kit",
+            "chipFamily": "ESP32",
             "ota": {
-                "md5": "03d05b9d9379abb653005aefe82eb99d",
+                "md5": "b20b5600070389d2c541c1091200c879",
                 "path": "https://cobustaljaard.github.io/esphome-updates/oslo-stoep-camera/firmware.ota.bin"
             }
         }
