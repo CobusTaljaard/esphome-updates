@@ -1,11 +1,11 @@
 {
     "name": "manage-test",
-    "version": "2024-09-14 15:00:44",
+    "version": "2024.10.12",
     "builds": [
         {
-            "chipFamily": "nodemcu-32s",
+            "chipFamily": "ESP32-S2",
             "ota": {
-                "md5": "0f672dbc4f33f2e49cbccc24930dbd42",
+                "md5": "e7422b59902bacc90c9cd215cf41e16a",
                 "path": "https://cobustaljaard.github.io/esphome-updates/manage-test/firmware.ota.bin"
             }
         }
