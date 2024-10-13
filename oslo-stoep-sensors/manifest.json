@@ -1,18 +1,18 @@
 {
     "name": "oslo-stoep-sensors",
-    "version": "2024.10.12",
+    "version": "2024.10.13",
     "builds": [
         {
             "chipFamily": "ESP8266",
             "ota": {
-                "md5": "b1b873701d54a02dad073cd2b03b1b72",
+                "md5": "7ddbd1bea5d371aaf3d9d90d1b949a69",
                 "path": "https://cobustaljaard.github.io/esphome-updates/oslo-stoep-sensors/firmware.ota.bin"
             }
         },
         {
             "chipFamily": "ESP32",
             "ota": {
-                "md5": "b1b873701d54a02dad073cd2b03b1b72",
+                "md5": "7ddbd1bea5d371aaf3d9d90d1b949a69",
                 "path": "https://cobustaljaard.github.io/esphome-updates/oslo-stoep-sensors/firmware.ota.bin"
             }
         }
