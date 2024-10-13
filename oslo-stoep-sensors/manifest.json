@@ -5,7 +5,14 @@
         {
             "chipFamily": "ESP8266",
             "ota": {
-                "md5": "76f50308bebfbd74405ed63e84d36a8f",
+                "md5": "b1b873701d54a02dad073cd2b03b1b72",
+                "path": "https://cobustaljaard.github.io/esphome-updates/oslo-stoep-sensors/firmware.ota.bin"
+            }
+        },
+        {
+            "chipFamily": "ESP32",
+            "ota": {
+                "md5": "b1b873701d54a02dad073cd2b03b1b72",
                 "path": "https://cobustaljaard.github.io/esphome-updates/oslo-stoep-sensors/firmware.ota.bin"
             }
         }
