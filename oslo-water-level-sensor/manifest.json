@@ -1,11 +1,18 @@
 {
     "name": "oslo-water-level-sensor",
-    "version": "2024.10.12",
+    "version": "2024.10.13",
     "builds": [
         {
-            "chipFamily": "ESP32-S2",
+            "chipFamily": "ESP8266",
             "ota": {
-                "md5": "670140a5281cddaf07453089f64f82ab",
+                "md5": "d33ee53ec46422ad5babde2a146f1ea3",
+                "path": "https://cobustaljaard.github.io/esphome-updates/oslo-water-level-sensor/firmware.ota.bin"
+            }
+        },
+        {
+            "chipFamily": "ESP32",
+            "ota": {
+                "md5": "d33ee53ec46422ad5babde2a146f1ea3",
                 "path": "https://cobustaljaard.github.io/esphome-updates/oslo-water-level-sensor/firmware.ota.bin"
             }
         }
