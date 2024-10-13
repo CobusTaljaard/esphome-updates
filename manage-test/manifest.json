@@ -5,7 +5,7 @@
         {
             "chipFamily": "ESP32-S2",
             "ota": {
-                "md5": "7831962f7f105fc304fb2414a2f447d7",
+                "md5": "3d67237c93a63574b33c3d4ee1ea3a7a",
                 "path": "https://cobustaljaard.github.io/esphome-updates/manage-test/firmware.ota.bin"
             }
         }
