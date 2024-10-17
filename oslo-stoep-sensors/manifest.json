@@ -1,6 +1,7 @@
 {
     "name": "oslo-stoep-sensors",
     "version": "2024.10.13",
+    "home_assistant_domain": "esphome",
     "builds": [
         {
             "chipFamily": "ESP8266",
