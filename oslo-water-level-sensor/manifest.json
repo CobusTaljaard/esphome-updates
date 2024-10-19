@@ -5,14 +5,14 @@
         {
             "chipFamily": "ESP8266",
             "ota": {
-                "md5": "b72bf34b78319e6b8a83b3d8498ed116",
+                "md5": "99a1181fd973b2e26803b029695f63d8",
                 "path": "https://cobustaljaard.github.io/esphome-updates/oslo-water-level-sensor/firmware.ota.bin"
             }
         },
         {
             "chipFamily": "ESP32",
             "ota": {
-                "md5": "b72bf34b78319e6b8a83b3d8498ed116",
+                "md5": "99a1181fd973b2e26803b029695f63d8",
                 "path": "https://cobustaljaard.github.io/esphome-updates/oslo-water-level-sensor/firmware.ota.bin"
             }
         }
