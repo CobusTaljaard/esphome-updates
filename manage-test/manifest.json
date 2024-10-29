@@ -1,18 +1,18 @@
 {
     "name": "manage-test",
-    "version": "2024.10.25",
+    "version": "2024.10.29",
     "builds": [
         {
             "chipFamily": "ESP8266",
             "ota": {
-                "md5": "9d9def878e2b45352c4a8e8648817c27",
+                "md5": "8f8c04ce9e3e446cbe58cd0beed1c24e",
                 "path": "https://cobustaljaard.github.io/esphome-updates/manage-test/firmware.ota.bin"
             }
         },
         {
             "chipFamily": "ESP32",
             "ota": {
-                "md5": "9d9def878e2b45352c4a8e8648817c27",
+                "md5": "8f8c04ce9e3e446cbe58cd0beed1c24e",
                 "path": "https://cobustaljaard.github.io/esphome-updates/manage-test/firmware.ota.bin"
             }
         }
