@@ -5,14 +5,14 @@
         {
             "chipFamily": "ESP8266",
             "ota": {
-                "md5": "eea9c1a4dd1af374b0a4af85a70ba4df",
+                "md5": "036b92b73422b291ddcb9c6344e223fc",
                 "path": "https://cobustaljaard.github.io/esphome-updates/oslo-stoep-camera/firmware.ota.bin"
             }
         },
         {
             "chipFamily": "ESP32",
             "ota": {
-                "md5": "eea9c1a4dd1af374b0a4af85a70ba4df",
+                "md5": "036b92b73422b291ddcb9c6344e223fc",
                 "path": "https://cobustaljaard.github.io/esphome-updates/oslo-stoep-camera/firmware.ota.bin"
             }
         }
