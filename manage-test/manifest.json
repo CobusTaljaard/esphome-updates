@@ -5,14 +5,14 @@
         {
             "chipFamily": "ESP8266",
             "ota": {
-                "md5": "a1b9461e69c36cad340a8a8f09ac9adf",
+                "md5": "a86edfc18734c03f97aae4e5faadc9b8",
                 "path": "https://cobustaljaard.github.io/esphome-updates/manage-test/firmware.ota.bin"
             }
         },
         {
             "chipFamily": "ESP32",
             "ota": {
-                "md5": "a1b9461e69c36cad340a8a8f09ac9adf",
+                "md5": "a86edfc18734c03f97aae4e5faadc9b8",
                 "path": "https://cobustaljaard.github.io/esphome-updates/manage-test/firmware.ota.bin"
             }
         }
