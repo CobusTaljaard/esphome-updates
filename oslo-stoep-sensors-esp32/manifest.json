@@ -1,18 +1,18 @@
 {
     "name": "oslo-stoep-sensors-esp32",
-    "version": "2025.02.02",
+    "version": "2025.02.20",
     "builds": [
         {
             "chipFamily": "ESP8266",
             "ota": {
-                "md5": "5f25aa8fb6aa470356d8851ee245aa0c",
+                "md5": "b63b97d80cfce58a5c6c809e4620aeb6",
                 "path": "https://cobustaljaard.github.io/esphome-updates/oslo-stoep-sensors-esp32/firmware.ota.bin"
             }
         },
         {
             "chipFamily": "ESP32",
             "ota": {
-                "md5": "5f25aa8fb6aa470356d8851ee245aa0c",
+                "md5": "b63b97d80cfce58a5c6c809e4620aeb6",
                 "path": "https://cobustaljaard.github.io/esphome-updates/oslo-stoep-sensors-esp32/firmware.ota.bin"
             }
         }
