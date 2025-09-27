@@ -1,18 +1,18 @@
 {
     "name": "oslo-stoep-camera",
-    "version": "2025.08.31",
+    "version": "2025.09.27",
     "builds": [
         {
             "chipFamily": "ESP8266",
             "ota": {
-                "md5": "48c60c9057945093e0a4d2bbecb07b30",
+                "md5": "0708fb305ebe5508165b90a2d3f19348",
                 "path": "https://cobustaljaard.github.io/esphome-updates/oslo-stoep-camera/firmware.ota.bin"
             }
         },
         {
             "chipFamily": "ESP32",
             "ota": {
-                "md5": "48c60c9057945093e0a4d2bbecb07b30",
+                "md5": "0708fb305ebe5508165b90a2d3f19348",
                 "path": "https://cobustaljaard.github.io/esphome-updates/oslo-stoep-camera/firmware.ota.bin"
             }
         }
